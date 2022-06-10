@@ -8,11 +8,11 @@ Project responsible for presenting my skills with HTML, CSS and JavaScript
 # NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src="img/"/>
+	<img src="img/nota.png"/>
 </div>
 
 # Preview:
 
 <div align="center" margin="50px">
-	<img src="img/"/>
+	<img src="img/page.png"/>
 </div>
