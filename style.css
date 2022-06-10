@@ -25,7 +25,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  background-color: #32a791;
+  background-color: #007354;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -52,13 +52,13 @@ body {
 }
 
 input {
-  border: 1px solid #32a791;
+  border: 1px solid #00cf8e;
   border-radius: 7px;
   padding: 10px;
 }
 
 select {
-  background-color: #88e9d7;
+  background-color: #00cf8e;
   border-radius: 7px;
   padding: 10px 5px;
 }
@@ -104,7 +104,7 @@ main {
 }
 
 hr {
-  border: 1px solid #32a791;
+  border: 1px solid #00cf8e;
   margin: 25px 0;
 }
 
@@ -173,7 +173,7 @@ input, textarea, select {
 }
 
 button {
-  background-color: indigo;
+  background-color: #00cf8e;
   color: white;
   cursor: pointer;
 }
@@ -199,6 +199,7 @@ button {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
+  align-items: center;    
 }
 
 #label-family, #label-content, #label-rate, #label-textarea {
@@ -219,7 +220,7 @@ button {
   width: 100%;
   border-radius: 7px;
   resize: none;
-  border: 1px solid #32a791;
+  border: 1px solid #00cf8e;
 }
 
 #counter {
@@ -257,6 +258,7 @@ button {
 
 #user-information p {
   line-height: 40px;
+  font-size: 100px;
 }
 
 footer {
